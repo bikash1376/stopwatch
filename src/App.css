@@ -10,7 +10,6 @@ span {
 }
 button {
   margin: 10px;
-  /* background-color: rgb(204, 241, 204); */
 }
 
 .logo {
@@ -46,5 +45,5 @@ button {
 }
 
 .read-the-docs {
-  color: #888;
+  color: #8f8f8f;
 }
